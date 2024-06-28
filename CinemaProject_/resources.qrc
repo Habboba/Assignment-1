@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/&quot;D:\QT\CinemaProject_\img\welcome cinema.jpg&quot;"/>
+    <qresource prefix="/">
+        <file>img/welcome cinema.jpg</file>
+    </qresource>
+</RCC>
